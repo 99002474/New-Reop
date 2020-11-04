@@ -1,0 +1,15 @@
+<resources>
+    <string-array name="entries">
+        <item>sk1</item>
+        <item>sk2</item>
+        <item>ph1</item>
+        <item>ph2</item>
+    </string-array>
+    <string-array name="description">
+        <item>sketch 1</item>
+        <item>sketch 2</item>
+        <item>photo 1</item>
+        <item>photo 2</item>
+    </string-array>
+    <string name="app_name">app_name</string>
+</resources>
